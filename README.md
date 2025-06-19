@@ -87,5 +87,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙌 Credits
 
-Made with ❤️ by [Your Name](https://github.com/your-username)  
+Made by Alins BInu(https://github.com/AlinsBinuP)  
 *If you like this project, leave a ⭐ on GitHub!*
