@@ -21,7 +21,7 @@ A sleek and intuitive Flutter app that allows users to **scan** QR codes using t
 
 | Scan from Camera | Scan from Gallery | Generate QR |
 |:--:|:--:|:--:|
-| ![camera](assets/camera.png) | ![gallery](assets/gallery.png) | ![generate](assets/generate.png) |
+| ![camera](/Home.jpg) | ![gallery](/Scan.jpg) | ![generate](/Generator.jpg) |
 
 ---
 
