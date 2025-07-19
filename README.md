@@ -2,7 +2,7 @@
 
 A sleek and intuitive Flutter app that allows users to **scan** QR codes using the camera or from the gallery, and **generate** custom QR codes from any input text or link. Built with modern UI and real-time barcode processing.
 
-![Banner](assets/banner.png) <!-- Optional: Add an actual screenshot path -->
+![Banner](/Home.jpg) <!-- Optional: Add an actual screenshot path -->
 
 ---
 
